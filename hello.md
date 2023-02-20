@@ -1,2 +1,2 @@
 HI,I'm adamssssss
-this line is from windos
+this line is from windows
